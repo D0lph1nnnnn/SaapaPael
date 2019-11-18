@@ -1,0 +1,29 @@
+.container-fluid {
+    background-color: crimson;
+}
+
+.col {
+    background-color: ivory;
+}
+
+.col-6 {
+    background-color: darkkhaki;
+    border: 1px solid white;
+}
+
+.col-3 {
+    background-color: cadetblue;
+    border: 1px solid white;
+    color: white;
+}
+
+.col-md-6 {
+    background-color: burlywood;
+    border: 1px solid black;
+}
+
+.col-md-4 {
+    background-color: chocolate;
+    color: white;
+    border: 1px solid white;
+}
